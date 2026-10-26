@@ -9,8 +9,8 @@ This project is based on this [repo](https://github.com/atc1441/E-Paper_Pricetag
 - Saves images to the onboard memory
 
 ### Images
-<img src="images/screenshotA.png" height="400px" alt="Alt Text">
-<img src="images/screenshotB.png" height="400px" alt="Alt Text">
+<img src="images/screenshotA.png" height="300px" alt="Alt Text">
+<img src="images/screenshotB.png" height="300px" alt="Alt Text">
 
 ### Parts list
 - ESP32
