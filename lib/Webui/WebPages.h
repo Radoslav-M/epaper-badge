@@ -115,13 +115,13 @@ static const char PAGE_INDEX[] PROGMEM = R"HTML(<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>E-Paper</title>
+<title>Limes E-Paper</title>
 <link rel="stylesheet" href="/style.css">
 <script src="/app.js"></script>
 </head><body>
 
 <header>
-  <h1>E-Paper</h1>
+  <h1>Limes E-Paper</h1>
   <a class="btn primary" href="/upload">Upload</a>
   <button id="theme" title="Toggle dark mode">&#9680;</button>
 </header>
